@@ -1,0 +1,133 @@
+.emoji {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  margin:auto;
+  margin-top: 40%;
+}
+
+.face {
+  width: 297px;
+  height: 200px;
+  border-radius:40% 40% 46% 46%;
+  margin-left:20px ;
+  position: fixed;
+  background-color: pink;
+}
+.face2{
+  width: 260px;
+  height: 200px;
+  border-radius:50% 50% 0% 0%;
+  position: fixed;
+  margin-left:19px ;
+  margin-top: -80px;
+  background-color: pink;
+
+}
+.face3{
+  width: 150px;
+  height: 220px;
+  border-radius:170% 0% 50% 180%;
+  position: fixed; 
+  margin-left:-17px ;
+  margin-top: 40px;
+  
+  background-color:pink;
+}
+.face4{
+  width: 150px;
+  height: 210px;
+  border-radius:0% 145% 100% 180%;
+  position: fixed; 
+  margin-left:143px ;
+  margin-top: 1px;
+  
+  background-color:pink;
+}
+
+.eyes {
+  width: 40px;
+  height: 60px;
+  background-color:rgb(22, 15, 16);
+  border-radius:48% 48% 48% 48%;
+  margin-left:50px ;
+  margin-top: 40px;
+  position: fixed; 
+
+}
+
+.eye {
+  width: 40px;
+  height: 60px;
+  background-color:rgb(22, 15, 16);
+  border-radius:48% 48% 48% 48%;
+  margin-left:140px ;
+  margin-top: -3px;
+  position: fixed; 
+}
+
+.nose {
+  width: 100px;
+  height: 70px;
+  background-color:rgb(253, 136, 208);
+  border-radius:50% 50% 40% 40%;
+  margin-left:92px ;
+  margin-top: 100px;
+  position: fixed; 
+}
+.nose1{
+  width: 20px;
+  height: 40px;
+  background-color:rgb(97, 47, 80);
+  border-radius:48% 48% 48% 48%;
+  margin-left:153px ;
+  margin-top: 120px;
+  position: fixed; 
+
+}
+.nose2{
+  width: 20px;
+  height: 40px;
+  background-color:rgb(97, 47, 80);
+  border-radius:48% 48% 48% 48%;
+  margin-left:110px ;
+  margin-top: 120px;
+  position: fixed; 
+
+}
+.mouth {
+  width: 110px;
+  height: 40px;
+  background-color: rgb(31, 28, 28);
+  border-radius: 50% / 0 0 100% 100%;
+  position: fixed;
+  top: 444px;
+  left: 58%;
+  transform: translateX(-50%);
+}
+.mouth1 {
+  width: 113px;
+  height: 40px;
+  background-color: pink;
+  border-radius: 50% / 0 0 100% 100%;
+  position: fixed; 
+  top: 440px;
+  left: 58%;
+  transform: translateX(-50%);
+}
+.rear{
+  width: 90px;
+  height: 110px;
+  background-color: pink;
+  border-radius: 30% 100% 10% 50%;
+  margin-top: -72px;
+  margin-left: -10px;
+}
+.lear{
+  width: 90px;
+  height: 110px;
+  background-color: pink;
+  border-radius:92% 30% 50% 50%;
+  margin-top: -110px;
+  margin-left: 210px;
+}
